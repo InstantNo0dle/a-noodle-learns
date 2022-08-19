@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # Who am I?
 
-1. Noodle, a rising high school sophomore interested in computational neuroscience! 
+1. Erin Wong, a.k.a. noodle, a rising high school sophomore interested in computational neuroscience! 
 
 2. Currently immersing myself in machine learning in the hopes of someday becoming proficient enough to employ my skills in the field. 
 
