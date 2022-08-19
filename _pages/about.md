@@ -3,9 +3,13 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+# Who am I?
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+1. Noodle, a rising high school sophomore interested in computational neuroscience! 
 
+2. Currently immersing myself in machine learning in the hopes of someday becoming proficient enough to employ my skills in the field. 
 
+3. Learning more and more about neuroscience (and other material sciences as well).
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I use obsidian, a zettlekasten-style note taking app to organize my life, and my notes will be available on this website soon on subjects from Earth Science to book notes.
+
